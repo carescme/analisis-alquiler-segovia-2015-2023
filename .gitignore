@@ -1,1 +1,5 @@
 "data/__pycache__/*.csv*.xlsx.env" 
+config.py
+__pycache__/
+*.pyc
+data/raw/
